@@ -10,7 +10,7 @@ This is my portfolio site where I will display client work.
 
 ## Setup/Installation Requirements
 
--   To View My Portfolio Go to <https://nehamalhotra23.github.io/neha-portfolio>
+-   To View My Portfolio Go to <https://nehamalhotra23.github.io/My-Portfolio/>
 -   git clone <https://github.com/nehamalhotra23/My-Portfolio>
 -   Open in your favorite text editor
 
